@@ -41,13 +41,13 @@ export default function Home() {
      </div>
      <div className="carousel-inner">
        <div className="carousel-item active">
-         <img src="https://static.vecteezy.com/system/resources/previews/030/608/660/large_2x/fuji-mountain-and-lake-kawaguchiko-at-sunset-japan-beautiful-scenic-landscape-of-mountain-fuji-or-fujisan-with-reflection-on-shoji-lake-at-dawn-with-twilight-sky-japan-ai-generated-free-photo.jpg" className="d-block w-100" alt="..." />
+         <img src="https://tonkit360.com/wp-content/uploads/2021/02/%E0%B8%AD%E0%B8%A7%E0%B8%81%E0%B8%B2%E0%B8%A8.jpg" className="d-block w-100" alt="..." />
        </div>
        <div className="carousel-item">
-         <img src="https://m.media-amazon.com/images/I/51y8GUVKJoL.jpg" className="d-block w-100" alt="..." />
+         <img src="" className="d-block w-100" alt="..." />
        </div>
        <div className="carousel-item">
-         <img src="https://t3.ftcdn.net/jpg/02/35/78/96/360_F_235789662_9tKzoDqDUHh6ctZQ2pSWFTKnuBuZmBwl.jpg" className="d-block w-100" alt="..." />
+         <img src="https://konderntang.com/wp-content/uploads/2023/11/alien-02.jpg" className="d-block w-100" alt="..." />
        </div>
      </div>
      <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -63,30 +63,30 @@ export default function Home() {
    <div className="row">
          <div className="col-4 text center" >
              <div className="card" style={{width: '34rem'}}>
-              <img src="https://cms-b-assets.familysearch.org/dims4/default/b27779d/2147483647/strip/true/crop/856x535+0+0/resize/800x500!/quality/90/?url=https%3A%2F%2Ffamilysearch-brightspot.s3.amazonaws.com%2F36%2F6b%2Fe9b21c5155646968c4a562b1f989%2Fjapanese-woman-with-kimono-fashion.jpeg" className="card-img-top" alt="..." />
+              <img src="https://konderntang.com/wp-content/uploads/2023/11/alien-02.jpg" className="card-img-top" alt="..." />
                  <div className="card-body">
-                   <h5 className="card-title">Card title</h5>
-                     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                   <h5 className="card-title">Alien</h5>
+                     <p className="card-text">มนุษย์ต่างดาว (Alien) คือ คำที่เกิดจากจินตนาการในนิยายวิทยาศาสตร์ ที่ใช้เรียก สิ่งมีชีวิตนอกโลกที่อาศัยอยู่บนดาวดวงอื่น คำว่า ‘มนุษย์ต่างดาว’ เขียนเป็นภาษาอังกฤษ ว่า Alien มีรากศัพท์มาจากคำว่า Allus ในภาษาละติน (Latin) แปลว่า อื่นๆ (Other) ซึ่งมนุษย์ต่างดาวนั้นไม่จำเป็นต้องมีรูปร่าง หน้าตา หรือลักษณะท่าทางเคลื่อนไหวคล้ายมนุษย์ จึงสามารถใช้คำว่า ‘สิ่งมีชีวิตต่างดาว’(Extraterrestrial life)แทนได้ และจากการศึกษาของนักวิทยาศาสตร์ในปัจจุบัน ยังไม่พบว่ามีมนุษย์ต่างดาวอาศัยอยู่บนดาวเคราะห์ต่างๆที่โคจรรอบดวงอาทิตย์ในระบบสุริยะจักรวาลนี้ แต่นักวิทยาศาสตร์บางกลุ่มยังคงมีความเชื่อว่า น่าจะมีโอกาสค้นพบมนุษย์ต่างดาวอาศัยอยู่บนดาวดวงใดๆในจักรวาลอื่นๆ โดยคาดว่า มนุษย์ต่างดาวนี้น่าจะมีระดับสติปัญญาที่ใกล้เคียง หรือฉลาดกว่ามนุษย์</p>
                        <a href="#" className="btn btn-primary">Go somewhere</a>
          </div>
              </div>
                  </div>
          <div className="col-4 text center" >
              <div className="card" style={{width: '34rem'}}>
-               <img src="https://www.pdx.edu/world-languages/sites/worldlanguages.web.wdt.pdx.edu/files/2020-08/wll-japanese.jpg" className="card-img-top" alt="..." />
+               <img src="https://img.lovepik.com//photo/40063/0102.jpg_860.jpg" className="card-img-top" alt="..." />
                  <div className="card-body">
-                   <h5 className="card-title">Card title</h5>
-                     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                   <h5 className="card-title">ดาวเทียม</h5>
+                     <p className="card-text">ดาวเทียมจัดเป็นยานอวกาศแบบแรก ที่มนุษย์ส่งขึ้นไปโคจรรอบโลกเพื่อสำรวจอวกาศ วงโคจรของดาวเทียมมีอยู่ 3 ชนิด คือ วงโคจรระดับต่ำ วงโคจรระดับกลาง และวงโคจรค้างฟ้า ตัวอย่างดาวเทียม เช่น ดาวเทียมสปุตนิก</p>
                        <a href="#" className="btn btn-primary">Go somewhere</a>
          </div>
              </div>
                  </div>
          <div className="col-4 text center" >
              <div className="card" style={{width: '34rem'}}>
-               <img src="https://i0.wp.com/blog.eternal3d.com/wp-content/uploads/2024/02/The-Best-3-Famous-Japanese-Art-photo.png?w=1000&ssl=1" className="card-img-top" alt="..." />
+               <img src="https://cdn.pixabay.com/photo/2023/10/16/00/00/ufo-8318128_1280.jpg" className="card-img-top" alt="..." />
                  <div className="card-body">
-                   <h5 className="card-title">Card title</h5>
-                     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                   <h5 className="card-title">UFO</h5>
+                     <p className="card-text">วัตถุบินไม่สามารถระบุได้ หรือมักเรียกว่า ยูเอฟโอ หรือ ยูโฟ (UFO) หรือทางการ ปรากฏการณ์ผิดปกติที่ระบุไม่ได้ หรือ ยูเอพี (UAP) ในความหมายกว้างที่สุด คือ สิ่งผิดปกติประจักษ์ชัดใด ๆ ในท้องฟ้า (หรือใกล้หรืออยู่บนพื้นดิน แต่สังเกตว่าบินร่อน ลงจอดหรือทะยานขึ้นสู่ท้องฟ้า) ซึ่งไม่สามารถระบุได้ในทันทีว่าเป็นวัตถุหรือปรากฏการณ์ใด ๆ ที่ทราบจากการสังเกตด้วยตา หรือ การใช้เครื่องมือช่วย เช่น เรดาร์ สิ่งผิดปกตินี้มักเรียกว่า "จานผี" หรือ "จานบิน" ระหว่างคริสต์ทศวรรษ 1940 และต้นคริสต์ทศวรรษ 1950.</p>
                        <a href="#" className="btn btn-primary">Go somewhere</a>
          </div>
              </div>
